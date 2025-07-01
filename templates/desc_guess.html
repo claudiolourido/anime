@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Guess by Description</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body
+    style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column; text-align: center;">
+    <h2>Guess the Anime from the Description</h2>
+    <p style="max-width: 500px;">{{ synopsis }}</p>
+    <form method="post">
+        <input type="hidden" name="correct_title" value="{{ title }}">
+        <input type="hidden" name="synopsis" value="{{ synopsis }}">
+        <input name="guess" placeholder="Your guess here">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>

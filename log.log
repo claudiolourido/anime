@@ -1,0 +1,763 @@
+2025-07-01 23:33:45,717  * Debugger is active!
+2025-07-01 23:33:45,725  * Debugger PIN: 971-880-103
+2025-07-01 23:33:49,738 127.0.0.1 - - [01/Jul/2025 23:33:49] "GET / HTTP/1.1" 200 -
+2025-07-01 23:33:51,936 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:33:52,521 https://api.jikan.moe:443 "GET /v4/anime?start_date=2012-03-26&order_by=favorites&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:33:52,526 Api Call 
+ Anime list:
+2025-07-01 23:33:52,526 Shingeki no Kyojin
+2025-07-01 23:33:52,526 Jujutsu Kaisen
+2025-07-01 23:33:52,526 Kimi no Na wa.
+2025-07-01 23:33:52,526 Kimetsu no Yaiba
+2025-07-01 23:33:52,527 Koe no Katachi
+2025-07-01 23:33:52,527 Shigatsu wa Kimi no Uso
+2025-07-01 23:33:52,527 Haikyuu!!
+2025-07-01 23:33:52,527 Re:Zero kara Hajimeru Isekai Seikatsu
+2025-07-01 23:33:52,527 Sousou no Frieren
+2025-07-01 23:33:52,527 Sword Art Online
+2025-07-01 23:33:52,527 Violet Evergarden
+2025-07-01 23:33:52,527 One Punch Man
+2025-07-01 23:33:52,527 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:33:52,527 Boku no Hero Academia
+2025-07-01 23:33:52,527 Shingeki no Kyojin: The Final Season
+2025-07-01 23:33:52,527 Vinland Saga
+2025-07-01 23:33:52,527 Mob Psycho 100
+2025-07-01 23:33:52,527 Tokyo Ghoul
+2025-07-01 23:33:52,527 Chainsaw Man
+2025-07-01 23:33:52,527 Boku dake ga Inai Machi
+2025-07-01 23:33:52,527 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+2025-07-01 23:33:52,527 Black Clover
+2025-07-01 23:33:52,527 No Game No Life
+2025-07-01 23:33:52,527 Kono Subarashii Sekai ni Shukufuku wo!
+2025-07-01 23:33:52,528 Made in Abyss
+2025-07-01 23:33:52,528 VALID ANIMES:
+2025-07-01 23:33:52,528 Shingeki no Kyojin
+2025-07-01 23:33:52,528 Jujutsu Kaisen
+2025-07-01 23:33:52,528 Kimi no Na wa.
+2025-07-01 23:33:52,529 Kimetsu no Yaiba
+2025-07-01 23:33:52,529 Koe no Katachi
+2025-07-01 23:33:52,529 Shigatsu wa Kimi no Uso
+2025-07-01 23:33:52,529 Haikyuu!!
+2025-07-01 23:33:52,529 Re:Zero kara Hajimeru Isekai Seikatsu
+2025-07-01 23:33:52,529 Sousou no Frieren
+2025-07-01 23:33:52,529 Sword Art Online
+2025-07-01 23:33:52,529 Violet Evergarden
+2025-07-01 23:33:52,529 One Punch Man
+2025-07-01 23:33:52,529 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:33:52,529 Boku no Hero Academia
+2025-07-01 23:33:52,529 Shingeki no Kyojin: The Final Season
+2025-07-01 23:33:52,529 Vinland Saga
+2025-07-01 23:33:52,529 Mob Psycho 100
+2025-07-01 23:33:52,529 Tokyo Ghoul
+2025-07-01 23:33:52,529 Chainsaw Man
+2025-07-01 23:33:52,529 Boku dake ga Inai Machi
+2025-07-01 23:33:52,529 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+2025-07-01 23:33:52,530 Black Clover
+2025-07-01 23:33:52,530 No Game No Life
+2025-07-01 23:33:52,530 Kono Subarashii Sekai ni Shukufuku wo!
+2025-07-01 23:33:52,530 Made in Abyss
+2025-07-01 23:33:52,533 127.0.0.1 - - [01/Jul/2025 23:33:52] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:33:57,806 127.0.0.1 - - [01/Jul/2025 23:33:57] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:35:45,625 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:35:46,285 https://api.jikan.moe:443 "GET /v4/anime?start_date=2015-06-03&order_by=mal_id&sort=asc HTTP/1.1" 200 None
+2025-07-01 23:35:46,290 Api Call 
+ Anime list:
+2025-07-01 23:35:46,291 Shin Evangelion Movie:||
+2025-07-01 23:35:46,291 Kizumonogatari I: Tekketsu-hen
+2025-07-01 23:35:46,291 Cencoroll Connect
+2025-07-01 23:35:46,291 Da Yu Hai Tang (Movie)
+2025-07-01 23:35:46,291 Bakugan Battle Brawlers: Mechtanium Surge
+2025-07-01 23:35:46,291 Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara
+2025-07-01 23:35:46,291 Kono Sekai no Katasumi ni
+2025-07-01 23:35:46,291 Magical Suite Prism Nana
+2025-07-01 23:35:46,291 Mahou Shoujo Lyrical Nanoha: Reflection
+2025-07-01 23:35:46,291 Girls & Panzer Movie
+2025-07-01 23:35:46,291 Little Witch Academia: Mahoujikake no Parade
+2025-07-01 23:35:46,291 Gatchaman Crowds Insight
+2025-07-01 23:35:46,291 Trick or Alice
+2025-07-01 23:35:46,291 Senki Zesshou Symphogear GX
+2025-07-01 23:35:46,291 High Score Girl
+2025-07-01 23:35:46,291 Gyakusatsu Kikan
+2025-07-01 23:35:46,291 Non Non Biyori Repeat
+2025-07-01 23:35:46,291 Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa
+2025-07-01 23:35:46,291 Lance N' Masques
+2025-07-01 23:35:46,292 Taimadou Gakuen 35 Shiken Shoutai
+2025-07-01 23:35:46,292 Date A Live Movie: Mayuri Judgment
+2025-07-01 23:35:46,292 Gakkougurashi!
+2025-07-01 23:35:46,292 Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza
+2025-07-01 23:35:46,292 Love Live! The School Idol Movie
+2025-07-01 23:35:46,292 Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken
+2025-07-01 23:35:46,293 VALID ANIMES:
+2025-07-01 23:35:46,293 Shin Evangelion Movie:||
+2025-07-01 23:35:46,293 Kizumonogatari I: Tekketsu-hen
+2025-07-01 23:35:46,293 Cencoroll Connect
+2025-07-01 23:35:46,293 Da Yu Hai Tang (Movie)
+2025-07-01 23:35:46,293 Bakugan Battle Brawlers: Mechtanium Surge
+2025-07-01 23:35:46,293 Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara
+2025-07-01 23:35:46,293 Kono Sekai no Katasumi ni
+2025-07-01 23:35:46,293 Magical Suite Prism Nana
+2025-07-01 23:35:46,293 Mahou Shoujo Lyrical Nanoha: Reflection
+2025-07-01 23:35:46,293 Girls & Panzer Movie
+2025-07-01 23:35:46,293 Little Witch Academia: Mahoujikake no Parade
+2025-07-01 23:35:46,293 Gatchaman Crowds Insight
+2025-07-01 23:35:46,293 Trick or Alice
+2025-07-01 23:35:46,293 Senki Zesshou Symphogear GX
+2025-07-01 23:35:46,294 High Score Girl
+2025-07-01 23:35:46,294 Gyakusatsu Kikan
+2025-07-01 23:35:46,294 Non Non Biyori Repeat
+2025-07-01 23:35:46,294 Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa
+2025-07-01 23:35:46,294 Lance N' Masques
+2025-07-01 23:35:46,294 Taimadou Gakuen 35 Shiken Shoutai
+2025-07-01 23:35:46,294 Date A Live Movie: Mayuri Judgment
+2025-07-01 23:35:46,294 Gakkougurashi!
+2025-07-01 23:35:46,294 Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza
+2025-07-01 23:35:46,294 Love Live! The School Idol Movie
+2025-07-01 23:35:46,294 Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken
+2025-07-01 23:35:46,295 127.0.0.1 - - [01/Jul/2025 23:35:46] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:35:55,449 127.0.0.1 - - [01/Jul/2025 23:35:55] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:35:59,017 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:35:59,597 https://api.jikan.moe:443 "GET /v4/anime?start_date=2018-06-12&order_by=score&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:35:59,602 Api Call 
+ Anime list:
+2025-07-01 23:35:59,602 Sousou no Frieren
+2025-07-01 23:35:59,602 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:35:59,602 One Piece Fan Letter
+2025-07-01 23:35:59,602 Gintama: The Final
+2025-07-01 23:35:59,602 Bleach: Sennen Kessen-hen
+2025-07-01 23:35:59,602 Kaguya-sama wa Kokurasetai: Ultra Romantic
+2025-07-01 23:35:59,602 Fruits Basket: The Final
+2025-07-01 23:35:59,602 Kusuriya no Hitorigoto 2nd Season
+2025-07-01 23:35:59,602 Gintama. Shirogane no Tamashii-hen - Kouhan-sen
+2025-07-01 23:35:59,602 Kusuriya no Hitorigoto
+2025-07-01 23:35:59,603 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:35:59,603 Violet Evergarden Movie
+2025-07-01 23:35:59,603 Kingdom 3rd Season
+2025-07-01 23:35:59,603 Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+2025-07-01 23:35:59,603 Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+2025-07-01 23:35:59,603 Alien Stage
+2025-07-01 23:35:59,603 Vinland Saga Season 2
+2025-07-01 23:35:59,603 Takopii no Genzai
+2025-07-01 23:35:59,603 Takopii no Genzai
+2025-07-01 23:35:59,603 Mob Psycho 100 II
+2025-07-01 23:35:59,603 Shingeki no Kyojin: The Final Season
+2025-07-01 23:35:59,603 Vinland Saga
+2025-07-01 23:35:59,603 Shingeki no Kyojin: The Final Season Part 2
+2025-07-01 23:35:59,604 Bocchi the Rock!
+2025-07-01 23:35:59,604 Boku no Kokoro no Yabai Yatsu 2nd Season
+2025-07-01 23:35:59,604 VALID ANIMES:
+2025-07-01 23:35:59,604 Sousou no Frieren
+2025-07-01 23:35:59,604 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:35:59,604 One Piece Fan Letter
+2025-07-01 23:35:59,604 Gintama: The Final
+2025-07-01 23:35:59,604 Bleach: Sennen Kessen-hen
+2025-07-01 23:35:59,604 Kaguya-sama wa Kokurasetai: Ultra Romantic
+2025-07-01 23:35:59,605 Fruits Basket: The Final
+2025-07-01 23:35:59,605 Kusuriya no Hitorigoto 2nd Season
+2025-07-01 23:35:59,605 Gintama. Shirogane no Tamashii-hen - Kouhan-sen
+2025-07-01 23:35:59,605 Kusuriya no Hitorigoto
+2025-07-01 23:35:59,605 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:35:59,605 Violet Evergarden Movie
+2025-07-01 23:35:59,605 Kingdom 3rd Season
+2025-07-01 23:35:59,605 Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+2025-07-01 23:35:59,605 Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+2025-07-01 23:35:59,605 Alien Stage
+2025-07-01 23:35:59,605 Vinland Saga Season 2
+2025-07-01 23:35:59,605 Takopii no Genzai
+2025-07-01 23:35:59,605 Takopii no Genzai
+2025-07-01 23:35:59,605 Mob Psycho 100 II
+2025-07-01 23:35:59,605 Shingeki no Kyojin: The Final Season
+2025-07-01 23:35:59,605 Vinland Saga
+2025-07-01 23:35:59,605 Shingeki no Kyojin: The Final Season Part 2
+2025-07-01 23:35:59,606 Bocchi the Rock!
+2025-07-01 23:35:59,606 Boku no Kokoro no Yabai Yatsu 2nd Season
+2025-07-01 23:35:59,606 127.0.0.1 - - [01/Jul/2025 23:35:59] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:37:43,816 127.0.0.1 - - [01/Jul/2025 23:37:43] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:40:48,089 127.0.0.1 - - [01/Jul/2025 23:40:48] "[32mGET /reset HTTP/1.1[0m" 302 -
+2025-07-01 23:40:48,104 127.0.0.1 - - [01/Jul/2025 23:40:48] "GET / HTTP/1.1" 200 -
+2025-07-01 23:40:48,121 127.0.0.1 - - [01/Jul/2025 23:40:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:40:48,122 127.0.0.1 - - [01/Jul/2025 23:40:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=qW4uCMEfg8bC6Wd3Psob HTTP/1.1[0m" 304 -
+2025-07-01 23:40:48,122 127.0.0.1 - - [01/Jul/2025 23:40:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-01 23:40:48,124 127.0.0.1 - - [01/Jul/2025 23:40:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-01 23:41:22,983 127.0.0.1 - - [01/Jul/2025 23:41:22] "GET / HTTP/1.1" 200 -
+2025-07-01 23:41:22,994 127.0.0.1 - - [01/Jul/2025 23:41:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-01 23:41:24,891 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:41:25,253 https://api.jikan.moe:443 "GET /v4/anime?start_date=2025-08-11&order_by=start_date&sort=asc HTTP/1.1" 200 None
+2025-07-01 23:41:25,257 Api Call 
+ Anime list:
+2025-07-01 23:41:25,257 Ye de Mingming Shu
+2025-07-01 23:41:25,257 Summer Pockets Movie
+2025-07-01 23:41:25,257 Summer Pockets Movie
+2025-07-01 23:41:25,257 ChaO
+2025-07-01 23:41:25,257 Muchuu sa, Kimi ni.
+2025-07-01 23:41:25,257 As One
+2025-07-01 23:41:25,257 Odekake Kozame Movie: Tokai no Otomodachi
+2025-07-01 23:41:25,257 Pure Pure Pero Pero Princess
+2025-07-01 23:41:25,257 Mujin Eki The Animation
+2025-07-01 23:41:25,257 Mujin Eki The Animation
+2025-07-01 23:41:25,257 Koushoku no Chuugi Kunoichi Botan
+2025-07-01 23:41:25,257 Shachiku Cinderella
+2025-07-01 23:41:25,257 Fushigi no Kuni de Alice to: Dive in Wonderland
+2025-07-01 23:41:25,257 Cat's♥Eye
+2025-07-01 23:41:25,257 Cat's♥Eye
+2025-07-01 23:41:25,257 Pokemon Concierge Part 2
+2025-07-01 23:41:25,258 Netorareta Bakunyuu Tsuma-tachi
+2025-07-01 23:41:25,258 Kimi to Idol Precure♪ Movie: Omatase! Kimi ni Todokeru Kirakki Live!
+2025-07-01 23:41:25,258 Hyakuemu.
+2025-07-01 23:41:25,258 Chainsaw Man Movie: Reze-hen
+2025-07-01 23:41:25,258 Future Kid Takara
+2025-07-01 23:41:25,258 Kiken na Mori Onigokko
+2025-07-01 23:41:25,258 Kore tte Naani?
+2025-07-01 23:41:25,258 Uma Musume: Cinderella Gray Part 2
+2025-07-01 23:41:25,258 Muzik Tiger In the Forest 2nd Season
+2025-07-01 23:41:25,258 VALID ANIMES:
+2025-07-01 23:41:25,259 Hyakuemu.
+2025-07-01 23:41:25,259 Chainsaw Man Movie: Reze-hen
+2025-07-01 23:41:25,260 127.0.0.1 - - [01/Jul/2025 23:41:25] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:41:27,014 127.0.0.1 - - [01/Jul/2025 23:41:27] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:41:28,323 127.0.0.1 - - [01/Jul/2025 23:41:28] "[32mGET /reset HTTP/1.1[0m" 302 -
+2025-07-01 23:41:28,332 127.0.0.1 - - [01/Jul/2025 23:41:28] "GET / HTTP/1.1" 200 -
+2025-07-01 23:41:28,340 127.0.0.1 - - [01/Jul/2025 23:41:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:42:13,353 127.0.0.1 - - [01/Jul/2025 23:42:13] "GET / HTTP/1.1" 200 -
+2025-07-01 23:42:13,363 127.0.0.1 - - [01/Jul/2025 23:42:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:42:14,868 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:42:15,294 https://api.jikan.moe:443 "GET /v4/anime?start_date=2019-06-29&order_by=title&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:42:15,298 Api Call 
+ Anime list:
+2025-07-01 23:42:15,299 ☆Chopman☆
+2025-07-01 23:42:15,299 ‎Honekko Parade
+2025-07-01 23:42:15,299 Übel Blatt
+2025-07-01 23:42:15,299 p.h.
+2025-07-01 23:42:15,299 number24 Recap
+2025-07-01 23:42:15,299 number24
+2025-07-01 23:42:15,299 i☆Ris the Movie: Full Energy!!
+2025-07-01 23:42:15,299 iichiko Story
+2025-07-01 23:42:15,299 e-ma Nodo Ame CMs
+2025-07-01 23:42:15,299 [Oshi no Ko] 3rd Season
+2025-07-01 23:42:15,299 [Oshi no Ko] 2nd Season
+2025-07-01 23:42:15,299 [Oshi no Ko]
+2025-07-01 23:42:15,299 Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru
+2025-07-01 23:42:15,299 Zurukute Sugoi
+2025-07-01 23:42:15,299 Zurui Maboroshi
+2025-07-01 23:42:15,299 Zuoshou Shanglan 2nd Season
+2025-07-01 23:42:15,299 Zuoshou Shanglan 2nd Season
+2025-07-01 23:42:15,300 Zuoshou Shanglan
+2025-07-01 23:42:15,300 Zuihou de Zhaohuan Shi
+2025-07-01 23:42:15,300 Zui Qiang Woniu Busuzhike
+2025-07-01 23:42:15,300 Zui Qiang Shengji
+2025-07-01 23:42:15,300 Zui Ke Ai De Ren (Movie)
+2025-07-01 23:42:15,300 Zubaaan Kenkyuukai Katsudou Kiroku
+2025-07-01 23:42:15,300 Zou no Katachi
+2025-07-01 23:42:15,300 Zongmen Li Chule Wo Dou Shi Wodi
+2025-07-01 23:42:15,300 VALID ANIMES:
+2025-07-01 23:42:15,300 Übel Blatt
+2025-07-01 23:42:15,300 number24
+2025-07-01 23:42:15,300 [Oshi no Ko] 3rd Season
+2025-07-01 23:42:15,301 [Oshi no Ko] 2nd Season
+2025-07-01 23:42:15,301 [Oshi no Ko]
+2025-07-01 23:42:15,301 Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru
+2025-07-01 23:42:15,301 Zuoshou Shanglan
+2025-07-01 23:42:15,301 Zuihou de Zhaohuan Shi
+2025-07-01 23:42:15,305 127.0.0.1 - - [01/Jul/2025 23:42:15] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:42:15,318 127.0.0.1 - - [01/Jul/2025 23:42:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:42:37,438 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:42:37,818 https://api.jikan.moe:443 "GET /v4/anime?start_date=2020-01-02&order_by=popularity&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:42:37,820 Api Call 
+ Anime list:
+2025-07-01 23:42:37,820 Ling Tian Du Zun
+2025-07-01 23:42:37,820 Xi Xing Ji: Qianyuan Pian
+2025-07-01 23:42:37,821 Kamen
+2025-07-01 23:42:37,821 Swing!! PV
+2025-07-01 23:42:37,821 Ano ne
+2025-07-01 23:42:37,821 Kiken na Mori Onigokko
+2025-07-01 23:42:37,821 Pure Pure Pero Pero Princess
+2025-07-01 23:42:37,821 Shikushiku
+2025-07-01 23:42:37,821 Kusunoki: 500-nen no Kaze ni Fukarete
+2025-07-01 23:42:37,821 Kore tte Naani?
+2025-07-01 23:42:37,821 Peeping Life 12th Anniversary
+2025-07-01 23:42:37,821 Awaku Kasuka
+2025-07-01 23:42:37,821 Sora
+2025-07-01 23:42:37,821 Tsukimi Gokochi
+2025-07-01 23:42:37,821 Sound of Music (2025)
+2025-07-01 23:42:37,821 Zetsumetsu Kigu-shun. x Uchuu Nanchara Kotetsu-kun Gekijou Manner Douga
+2025-07-01 23:42:37,821 Chanchanko: Kanreki 60
+2025-07-01 23:42:37,821 Guruguru@Mawaru@Mawaluna
+2025-07-01 23:42:37,821 Sigsailon
+2025-07-01 23:42:37,821 Yes to No no Aida ni
+2025-07-01 23:42:37,821 Tenkai Dokyuu Oshigoto Road
+2025-07-01 23:42:37,821 Aimai Heart Spice
+2025-07-01 23:42:37,822 Youqu de Chengyu Gushi
+2025-07-01 23:42:37,822 Super Piece
+2025-07-01 23:42:37,822 Kao
+2025-07-01 23:42:37,822 VALID ANIMES:
+2025-07-01 23:42:37,826 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:42:38,278 https://api.jikan.moe:443 "GET /v4/anime?start_date=2021-04-02&order_by=scored_by&sort=asc HTTP/1.1" 200 None
+2025-07-01 23:42:38,281 Api Call 
+ Anime list:
+2025-07-01 23:42:38,281 I Love Me
+2025-07-01 23:42:38,281 Akachan Honbuchou 2nd Season
+2025-07-01 23:42:38,281 Pukkulapottas to Mori no Jikan
+2025-07-01 23:42:38,281 Ma-eum-uisoli Season 3
+2025-07-01 23:42:38,281 Wo Jiao MT: Guilai
+2025-07-01 23:42:38,281 Baby-Hamitang
+2025-07-01 23:42:38,281 Oni no Hanayome wa Taberaretai
+2025-07-01 23:42:38,281 Shanshen Yu Xiaozao
+2025-07-01 23:42:38,281 Insect Land
+2025-07-01 23:42:38,282 Hua Kaizhang Meili
+2025-07-01 23:42:38,282 Teikou Penguin (TV)
+2025-07-01 23:42:38,282 Chinzei Hachirou Tametomo (2021)
+2025-07-01 23:42:38,282 Tae-il
+2025-07-01 23:42:38,282 Zhu Dike: Lanhai Gi Yuan
+2025-07-01 23:42:38,282 Ji Gong: Xiang Long Jiang Shi
+2025-07-01 23:42:38,282 Ashuai 6th Season
+2025-07-01 23:42:38,282 Ashuai 5th Season
+2025-07-01 23:42:38,282 Bu Bai Chi Hua Shanhai Jing
+2025-07-01 23:42:38,282 Ruguo Lishi Shi Yiqun Miao 7th Season
+2025-07-01 23:42:38,282 Ruguo Lishi Shi Yiqun Miao 6th Season
+2025-07-01 23:42:38,282 Shouji Li de Huanxiong Xiao Zhen 2nd Season
+2025-07-01 23:42:38,282 Mazica Party Movie
+2025-07-01 23:42:38,282 M
+2025-07-01 23:42:38,282 Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season
+2025-07-01 23:42:38,282 Youkai Watch ♪ Movie 7: Keita to Orecchi no Deai Hen da Nyan ♪ Wa, Watakushi mo ♪♪
+2025-07-01 23:42:38,283 VALID ANIMES:
+2025-07-01 23:42:38,287 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:42:38,713 https://api.jikan.moe:443 "GET /v4/anime?start_date=2021-11-29&order_by=scored_by&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:42:38,718 Api Call 
+ Anime list:
+2025-07-01 23:42:38,718 Spy x Family
+2025-07-01 23:42:38,719 Kimetsu no Yaiba: Yuukaku-hen
+2025-07-01 23:42:38,719 Chainsaw Man
+2025-07-01 23:42:38,719 Shingeki no Kyojin: The Final Season Part 2
+2025-07-01 23:42:38,719 Sono Bisque Doll wa Koi wo Suru
+2025-07-01 23:42:38,719 Jujutsu Kaisen 0 Movie
+2025-07-01 23:42:38,719 Jujutsu Kaisen 2nd Season
+2025-07-01 23:42:38,719 Sousou no Frieren
+2025-07-01 23:42:38,719 Cyberpunk: Edgerunners
+2025-07-01 23:42:38,719 Ore dake Level Up na Ken
+2025-07-01 23:42:38,719 Kimetsu no Yaiba: Katanakaji no Sato-hen
+2025-07-01 23:42:38,719 Kaguya-sama wa Kokurasetai: Ultra Romantic
+2025-07-01 23:42:38,719 [Oshi no Ko]
+2025-07-01 23:42:38,719 Spy x Family Part 2
+2025-07-01 23:42:38,719 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:42:38,719 Jigokuraku
+2025-07-01 23:42:38,719 Blue Lock
+2025-07-01 23:42:38,719 Dandadan
+2025-07-01 23:42:38,719 Bocchi the Rock!
+2025-07-01 23:42:38,720 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+2025-07-01 23:42:38,720 Kage no Jitsuryokusha ni Naritakute!
+2025-07-01 23:42:38,720 Vinland Saga Season 2
+2025-07-01 23:42:38,720 Mob Psycho 100 III
+2025-07-01 23:42:38,720 Mashle
+2025-07-01 23:42:38,720 Mushoku Tensei II: Isekai Ittara Honki Dasu
+2025-07-01 23:42:38,721 VALID ANIMES:
+2025-07-01 23:42:38,721 Spy x Family
+2025-07-01 23:42:38,721 Kimetsu no Yaiba: Yuukaku-hen
+2025-07-01 23:42:38,721 Chainsaw Man
+2025-07-01 23:42:38,721 Shingeki no Kyojin: The Final Season Part 2
+2025-07-01 23:42:38,721 Sono Bisque Doll wa Koi wo Suru
+2025-07-01 23:42:38,721 Jujutsu Kaisen 0 Movie
+2025-07-01 23:42:38,721 Jujutsu Kaisen 2nd Season
+2025-07-01 23:42:38,721 Sousou no Frieren
+2025-07-01 23:42:38,721 Cyberpunk: Edgerunners
+2025-07-01 23:42:38,721 Ore dake Level Up na Ken
+2025-07-01 23:42:38,721 Kimetsu no Yaiba: Katanakaji no Sato-hen
+2025-07-01 23:42:38,721 Kaguya-sama wa Kokurasetai: Ultra Romantic
+2025-07-01 23:42:38,722 [Oshi no Ko]
+2025-07-01 23:42:38,722 Spy x Family Part 2
+2025-07-01 23:42:38,722 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:42:38,722 Jigokuraku
+2025-07-01 23:42:38,722 Blue Lock
+2025-07-01 23:42:38,722 Dandadan
+2025-07-01 23:42:38,722 Bocchi the Rock!
+2025-07-01 23:42:38,722 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+2025-07-01 23:42:38,722 Kage no Jitsuryokusha ni Naritakute!
+2025-07-01 23:42:38,722 Vinland Saga Season 2
+2025-07-01 23:42:38,722 Mob Psycho 100 III
+2025-07-01 23:42:38,722 Mashle
+2025-07-01 23:42:38,722 Mushoku Tensei II: Isekai Ittara Honki Dasu
+2025-07-01 23:42:38,723 127.0.0.1 - - [01/Jul/2025 23:42:38] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:42:38,737 127.0.0.1 - - [01/Jul/2025 23:42:38] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-01 23:42:54,494 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:42:54,889 https://api.jikan.moe:443 "GET /v4/anime?start_date=2017-05-03&order_by=mal_id&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:42:54,893 Api Call 
+ Anime list:
+2025-07-01 23:42:54,893 Eleceed
+2025-07-01 23:42:54,893 Eleceed
+2025-07-01 23:42:54,893 Vigilante: Boku no Hero Academia Illegals 2nd Season
+2025-07-01 23:42:54,893 Kiken na Mori Onigokko
+2025-07-01 23:42:54,893 Kore tte Naani?
+2025-07-01 23:42:54,893 Pure Pure Pero Pero Princess
+2025-07-01 23:42:54,893 Uma Musume: Cinderella Gray Part 2
+2025-07-01 23:42:54,893 Ling Tian Du Zun
+2025-07-01 23:42:54,894 Summer Pockets Movie
+2025-07-01 23:42:54,894 Summer Pockets Movie
+2025-07-01 23:42:54,894 Muzik Tiger In the Forest 2nd Season
+2025-07-01 23:42:54,894 Shibuya♡Hachi Part 4
+2025-07-01 23:42:54,894 KFC x Yuanshen Liandong PV: Daihao K - Duo Bao Qibing
+2025-07-01 23:42:54,894 Towa no Yuugure
+2025-07-01 23:42:54,894 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:42:54,894 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:42:54,894 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:42:54,894 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:42:54,894 Kyou wa Yubiwa wo Hazusu kara......
+2025-07-01 23:42:54,894 Kyou wa Yubiwa wo Hazusu kara......
+2025-07-01 23:42:54,894 Mujin Eki The Animation
+2025-07-01 23:42:54,894 Mujin Eki The Animation
+2025-07-01 23:42:54,894 Koushoku no Chuugi Kunoichi Botan
+2025-07-01 23:42:54,894 Forever feat. KNVWN
+2025-07-01 23:42:54,895 Usuiro Display
+2025-07-01 23:42:54,895 VALID ANIMES:
+2025-07-01 23:42:54,895 Vigilante: Boku no Hero Academia Illegals 2nd Season
+2025-07-01 23:42:54,896 127.0.0.1 - - [01/Jul/2025 23:42:54] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:42:54,909 127.0.0.1 - - [01/Jul/2025 23:42:54] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-01 23:44:20,206 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:44:20,635 https://api.jikan.moe:443 "GET /v4/anime?start_date=2023-01-08&order_by=favorites&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:44:20,639 Api Call 
+ Anime list:
+2025-07-01 23:44:20,640 Sousou no Frieren
+2025-07-01 23:44:20,640 [Oshi no Ko]
+2025-07-01 23:44:20,640 Jujutsu Kaisen 2nd Season
+2025-07-01 23:44:20,640 Kusuriya no Hitorigoto
+2025-07-01 23:44:20,640 Ore dake Level Up na Ken
+2025-07-01 23:44:20,640 Vinland Saga Season 2
+2025-07-01 23:44:20,640 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:44:20,640 Dandadan
+2025-07-01 23:44:20,640 Dungeon Meshi
+2025-07-01 23:44:20,640 Ore dake Level Up na Ken Season 2: Arise from the Shadow
+2025-07-01 23:44:20,641 Kimetsu no Yaiba: Katanakaji no Sato-hen
+2025-07-01 23:44:20,641 Jigokuraku
+2025-07-01 23:44:20,641 Mushoku Tensei II: Isekai Ittara Honki Dasu
+2025-07-01 23:44:20,641 Tengoku Daimakyou
+2025-07-01 23:44:20,641 One Punch Man 3
+2025-07-01 23:44:20,641 Tate no Yuusha no Nariagari Season 3
+2025-07-01 23:44:20,641 Kaijuu 8-gou
+2025-07-01 23:44:20,641 Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
+2025-07-01 23:44:20,641 Boku no Kokoro no Yabai Yatsu
+2025-07-01 23:44:20,641 [Oshi no Ko] 2nd Season
+2025-07-01 23:44:20,641 Boku no Kokoro no Yabai Yatsu 2nd Season
+2025-07-01 23:44:20,641 Kono Subarashii Sekai ni Shukufuku wo! 3
+2025-07-01 23:44:20,641 Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
+2025-07-01 23:44:20,641 Kage no Jitsuryokusha ni Naritakute! 2nd Season
+2025-07-01 23:44:20,641 Yamada-kun to Lv999 no Koi wo Suru
+2025-07-01 23:44:20,642 VALID ANIMES:
+2025-07-01 23:44:20,642 Sousou no Frieren
+2025-07-01 23:44:20,642 [Oshi no Ko]
+2025-07-01 23:44:20,642 Jujutsu Kaisen 2nd Season
+2025-07-01 23:44:20,642 Kusuriya no Hitorigoto
+2025-07-01 23:44:20,642 Ore dake Level Up na Ken
+2025-07-01 23:44:20,642 Vinland Saga Season 2
+2025-07-01 23:44:20,642 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:44:20,642 Dandadan
+2025-07-01 23:44:20,643 Dungeon Meshi
+2025-07-01 23:44:20,643 Ore dake Level Up na Ken Season 2: Arise from the Shadow
+2025-07-01 23:44:20,643 Kimetsu no Yaiba: Katanakaji no Sato-hen
+2025-07-01 23:44:20,643 Jigokuraku
+2025-07-01 23:44:20,643 Mushoku Tensei II: Isekai Ittara Honki Dasu
+2025-07-01 23:44:20,643 Tengoku Daimakyou
+2025-07-01 23:44:20,643 One Punch Man 3
+2025-07-01 23:44:20,643 Tate no Yuusha no Nariagari Season 3
+2025-07-01 23:44:20,643 Kaijuu 8-gou
+2025-07-01 23:44:20,643 Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
+2025-07-01 23:44:20,643 Boku no Kokoro no Yabai Yatsu
+2025-07-01 23:44:20,643 [Oshi no Ko] 2nd Season
+2025-07-01 23:44:20,643 Boku no Kokoro no Yabai Yatsu 2nd Season
+2025-07-01 23:44:20,643 Kono Subarashii Sekai ni Shukufuku wo! 3
+2025-07-01 23:44:20,643 Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
+2025-07-01 23:44:20,643 Kage no Jitsuryokusha ni Naritakute! 2nd Season
+2025-07-01 23:44:20,643 Yamada-kun to Lv999 no Koi wo Suru
+2025-07-01 23:44:20,645 127.0.0.1 - - [01/Jul/2025 23:44:20] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:44:20,660 127.0.0.1 - - [01/Jul/2025 23:44:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:44:26,373 127.0.0.1 - - [01/Jul/2025 23:44:26] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:44:26,383 127.0.0.1 - - [01/Jul/2025 23:44:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:45:19,812 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:45:20,266 https://api.jikan.moe:443 "GET /v4/anime?start_date=2011-08-07&order_by=popularity&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:45:20,270 Api Call 
+ Anime list:
+2025-07-01 23:45:20,270 Ling Tian Du Zun
+2025-07-01 23:45:20,270 Xi Xing Ji: Qianyuan Pian
+2025-07-01 23:45:20,270 Kamen
+2025-07-01 23:45:20,270 Swing!! PV
+2025-07-01 23:45:20,271 Ano ne
+2025-07-01 23:45:20,271 Tsumori Yamori
+2025-07-01 23:45:20,271 Onmyou Hyakki Monogatari PV
+2025-07-01 23:45:20,271 Pororo-wa Noraehaeyo 3rd Season
+2025-07-01 23:45:20,271 Kodomo Shunoukaidan
+2025-07-01 23:45:20,271 Taoleujima Beoseuteo 2nd Season
+2025-07-01 23:45:20,271 Capybara Clay Anime
+2025-07-01 23:45:20,271 Hirara Koi Kochou
+2025-07-01 23:45:20,271 Kiken na Mori Onigokko
+2025-07-01 23:45:20,272 Pure Pure Pero Pero Princess
+2025-07-01 23:45:20,272 Shikushiku
+2025-07-01 23:45:20,272 Kusunoki: 500-nen no Kaze ni Fukarete
+2025-07-01 23:45:20,272 Kangae ga Aru Kangaroo
+2025-07-01 23:45:20,272 Yi Zhi Baobao
+2025-07-01 23:45:20,272 Kore tte Naani?
+2025-07-01 23:45:20,272 Peeping Life 12th Anniversary
+2025-07-01 23:45:20,272 Mappa Show Case Logo Movie
+2025-07-01 23:45:20,273 Awaku Kasuka
+2025-07-01 23:45:20,273 Sora
+2025-07-01 23:45:20,273 Tsuki ni Sumu Kimi
+2025-07-01 23:45:20,273 Tsukimi Gokochi
+2025-07-01 23:45:20,273 VALID ANIMES:
+2025-07-01 23:45:20,277 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:45:20,868 https://api.jikan.moe:443 "GET /v4/anime?start_date=2010-07-26&order_by=score&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:45:20,873 Api Call 
+ Anime list:
+2025-07-01 23:45:20,873 Sousou no Frieren
+2025-07-01 23:45:20,873 Steins;Gate
+2025-07-01 23:45:20,873 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:45:20,873 Gintama°
+2025-07-01 23:45:20,873 One Piece Fan Letter
+2025-07-01 23:45:20,873 Gintama: The Final
+2025-07-01 23:45:20,873 Hunter x Hunter (2011)
+2025-07-01 23:45:20,873 Gintama'
+2025-07-01 23:45:20,873 Gintama': Enchousen
+2025-07-01 23:45:20,874 Bleach: Sennen Kessen-hen
+2025-07-01 23:45:20,874 Gintama.
+2025-07-01 23:45:20,874 Kaguya-sama wa Kokurasetai: Ultra Romantic
+2025-07-01 23:45:20,874 Fruits Basket: The Final
+2025-07-01 23:45:20,874 Koe no Katachi
+2025-07-01 23:45:20,874 3-gatsu no Lion 2nd Season
+2025-07-01 23:45:20,874 Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare
+2025-07-01 23:45:20,874 Kusuriya no Hitorigoto 2nd Season
+2025-07-01 23:45:20,874 Gintama. Shirogane no Tamashii-hen - Kouhan-sen
+2025-07-01 23:45:20,874 Kusuriya no Hitorigoto
+2025-07-01 23:45:20,874 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:45:20,874 Owarimonogatari 2nd Season
+2025-07-01 23:45:20,874 Violet Evergarden Movie
+2025-07-01 23:45:20,874 Kingdom 3rd Season
+2025-07-01 23:45:20,875 Kimi no Na wa.
+2025-07-01 23:45:20,875 Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+2025-07-01 23:45:20,875 VALID ANIMES:
+2025-07-01 23:45:20,875 Sousou no Frieren
+2025-07-01 23:45:20,875 Steins;Gate
+2025-07-01 23:45:20,875 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:45:20,875 Gintama°
+2025-07-01 23:45:20,875 One Piece Fan Letter
+2025-07-01 23:45:20,876 Gintama: The Final
+2025-07-01 23:45:20,876 Hunter x Hunter (2011)
+2025-07-01 23:45:20,876 Gintama'
+2025-07-01 23:45:20,876 Gintama': Enchousen
+2025-07-01 23:45:20,876 Bleach: Sennen Kessen-hen
+2025-07-01 23:45:20,876 Gintama.
+2025-07-01 23:45:20,876 Kaguya-sama wa Kokurasetai: Ultra Romantic
+2025-07-01 23:45:20,876 Fruits Basket: The Final
+2025-07-01 23:45:20,876 Koe no Katachi
+2025-07-01 23:45:20,876 3-gatsu no Lion 2nd Season
+2025-07-01 23:45:20,876 Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare
+2025-07-01 23:45:20,876 Kusuriya no Hitorigoto 2nd Season
+2025-07-01 23:45:20,876 Gintama. Shirogane no Tamashii-hen - Kouhan-sen
+2025-07-01 23:45:20,876 Kusuriya no Hitorigoto
+2025-07-01 23:45:20,876 Shingeki no Kyojin: The Final Season - Kanketsu-hen
+2025-07-01 23:45:20,876 Owarimonogatari 2nd Season
+2025-07-01 23:45:20,876 Violet Evergarden Movie
+2025-07-01 23:45:20,876 Kingdom 3rd Season
+2025-07-01 23:45:20,877 Kimi no Na wa.
+2025-07-01 23:45:20,877 Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
+2025-07-01 23:45:20,878 127.0.0.1 - - [01/Jul/2025 23:45:20] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:45:20,892 127.0.0.1 - - [01/Jul/2025 23:45:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:47:39,002 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:47:39,503 https://api.jikan.moe:443 "GET /v4/anime?start_date=2013-12-16&order_by=members&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:47:39,508 Api Call 
+ Anime list:
+2025-07-01 23:47:39,509 One Punch Man
+2025-07-01 23:47:39,509 Kimetsu no Yaiba
+2025-07-01 23:47:39,509 Boku no Hero Academia
+2025-07-01 23:47:39,509 Tokyo Ghoul
+2025-07-01 23:47:39,509 Kimi no Na wa.
+2025-07-01 23:47:39,509 Shingeki no Kyojin Season 2
+2025-07-01 23:47:39,509 Jujutsu Kaisen
+2025-07-01 23:47:39,509 Boku no Hero Academia 2nd Season
+2025-07-01 23:47:39,509 Shingeki no Kyojin Season 3
+2025-07-01 23:47:39,509 No Game No Life
+2025-07-01 23:47:39,509 Koe no Katachi
+2025-07-01 23:47:39,509 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:47:39,509 Re:Zero kara Hajimeru Isekai Seikatsu
+2025-07-01 23:47:39,510 Shigatsu wa Kimi no Uso
+2025-07-01 23:47:39,510 Boku no Hero Academia 3rd Season
+2025-07-01 23:47:39,510 Noragami
+2025-07-01 23:47:39,510 Mob Psycho 100
+2025-07-01 23:47:39,510 Boku dake ga Inai Machi
+2025-07-01 23:47:39,510 Akame ga Kill!
+2025-07-01 23:47:39,510 Shingeki no Kyojin: The Final Season
+2025-07-01 23:47:39,510 Nanatsu no Taizai
+2025-07-01 23:47:39,510 Ansatsu Kyoushitsu
+2025-07-01 23:47:39,510 Haikyuu!!
+2025-07-01 23:47:39,510 Yakusoku no Neverland
+2025-07-01 23:47:39,510 Kono Subarashii Sekai ni Shukufuku wo!
+2025-07-01 23:47:39,511 VALID ANIMES:
+2025-07-01 23:47:39,511 One Punch Man
+2025-07-01 23:47:39,511 Kimetsu no Yaiba
+2025-07-01 23:47:39,511 Boku no Hero Academia
+2025-07-01 23:47:39,511 Tokyo Ghoul
+2025-07-01 23:47:39,511 Kimi no Na wa.
+2025-07-01 23:47:39,511 Shingeki no Kyojin Season 2
+2025-07-01 23:47:39,511 Jujutsu Kaisen
+2025-07-01 23:47:39,511 Boku no Hero Academia 2nd Season
+2025-07-01 23:47:39,511 Shingeki no Kyojin Season 3
+2025-07-01 23:47:39,511 No Game No Life
+2025-07-01 23:47:39,511 Koe no Katachi
+2025-07-01 23:47:39,511 Shingeki no Kyojin Season 3 Part 2
+2025-07-01 23:47:39,511 Re:Zero kara Hajimeru Isekai Seikatsu
+2025-07-01 23:47:39,511 Shigatsu wa Kimi no Uso
+2025-07-01 23:47:39,511 Boku no Hero Academia 3rd Season
+2025-07-01 23:47:39,511 Noragami
+2025-07-01 23:47:39,511 Mob Psycho 100
+2025-07-01 23:47:39,512 Boku dake ga Inai Machi
+2025-07-01 23:47:39,512 Akame ga Kill!
+2025-07-01 23:47:39,512 Shingeki no Kyojin: The Final Season
+2025-07-01 23:47:39,512 Nanatsu no Taizai
+2025-07-01 23:47:39,512 Ansatsu Kyoushitsu
+2025-07-01 23:47:39,512 Haikyuu!!
+2025-07-01 23:47:39,512 Yakusoku no Neverland
+2025-07-01 23:47:39,512 Kono Subarashii Sekai ni Shukufuku wo!
+2025-07-01 23:47:39,513 127.0.0.1 - - [01/Jul/2025 23:47:39] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:47:39,528 127.0.0.1 - - [01/Jul/2025 23:47:39] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-01 23:47:46,438 127.0.0.1 - - [01/Jul/2025 23:47:46] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:47:46,446 127.0.0.1 - - [01/Jul/2025 23:47:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:48:06,448 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:48:06,889 https://api.jikan.moe:443 "GET /v4/anime?start_date=2021-06-06&order_by=end_date&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:48:06,894 Api Call 
+ Anime list:
+2025-07-01 23:48:06,894 IDOLiSH7 Movie
+2025-07-01 23:48:06,894 IDOLiSH7 Movie
+2025-07-01 23:48:06,894 Girls Band Cry Movie
+2025-07-01 23:48:06,894 Girls Band Cry Movie
+2025-07-01 23:48:06,894 Bullet/Bullet
+2025-07-01 23:48:06,894 Wonder Agent Yanen
+2025-07-01 23:48:06,894 Kusuriya no Hitorigoto 2nd Season
+2025-07-01 23:48:06,894 Vigilante: Boku no Hero Academia Illegals
+2025-07-01 23:48:06,894 Hibi wa Sugiredo Meshi Umashi
+2025-07-01 23:48:06,894 A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
+2025-07-01 23:48:06,894 A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
+2025-07-01 23:48:06,895 Uma Musume: Cinderella Gray
+2025-07-01 23:48:06,895 Uma Musume: Cinderella Gray
+2025-07-01 23:48:06,895 Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu
+2025-07-01 23:48:06,895 Classic★Stars
+2025-07-01 23:48:06,895 Sentai Daishikkaku 2nd Season
+2025-07-01 23:48:06,895 Mono
+2025-07-01 23:48:06,895 Lazarus
+2025-07-01 23:48:06,895 Shibuya♡Hachi Part 3
+2025-07-01 23:48:06,895 Shibuya♡Hachi Part 3
+2025-07-01 23:48:06,895 Kowloon Generic Romance
+2025-07-01 23:48:06,895 Kuroshitsuji: Midori no Majo-hen
+2025-07-01 23:48:06,895 Teogonia
+2025-07-01 23:48:06,895 Kanchigai no Atelier Meister Mini Anime
+2025-07-01 23:48:06,895 Oide yo Mahou Shoujo Mura (Fuhou Senkyo)
+2025-07-01 23:48:06,896 VALID ANIMES:
+2025-07-01 23:48:06,896 Girls Band Cry Movie
+2025-07-01 23:48:06,896 Girls Band Cry Movie
+2025-07-01 23:48:06,896 Bullet/Bullet
+2025-07-01 23:48:06,896 Kusuriya no Hitorigoto 2nd Season
+2025-07-01 23:48:06,896 Vigilante: Boku no Hero Academia Illegals
+2025-07-01 23:48:06,896 Hibi wa Sugiredo Meshi Umashi
+2025-07-01 23:48:06,896 A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
+2025-07-01 23:48:06,896 A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
+2025-07-01 23:48:06,896 Uma Musume: Cinderella Gray
+2025-07-01 23:48:06,896 Uma Musume: Cinderella Gray
+2025-07-01 23:48:06,896 Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu
+2025-07-01 23:48:06,897 Classic★Stars
+2025-07-01 23:48:06,897 Sentai Daishikkaku 2nd Season
+2025-07-01 23:48:06,897 Mono
+2025-07-01 23:48:06,897 Lazarus
+2025-07-01 23:48:06,897 Kowloon Generic Romance
+2025-07-01 23:48:06,897 Kuroshitsuji: Midori no Majo-hen
+2025-07-01 23:48:06,897 Teogonia
+2025-07-01 23:48:06,898 127.0.0.1 - - [01/Jul/2025 23:48:06] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:48:06,913 127.0.0.1 - - [01/Jul/2025 23:48:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:48:14,786 127.0.0.1 - - [01/Jul/2025 23:48:14] "POST /randomanime HTTP/1.1" 200 -
+2025-07-01 23:48:14,795 127.0.0.1 - - [01/Jul/2025 23:48:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:49:59,743 127.0.0.1 - - [01/Jul/2025 23:49:59] "[32mGET /reset HTTP/1.1[0m" 302 -
+2025-07-01 23:49:59,755 127.0.0.1 - - [01/Jul/2025 23:49:59] "GET / HTTP/1.1" 200 -
+2025-07-01 23:49:59,765 127.0.0.1 - - [01/Jul/2025 23:49:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:50:01,367 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:50:01,793 https://api.jikan.moe:443 "GET /v4/anime?start_date=2018-06-20&order_by=end_date&sort=asc HTTP/1.1" 200 None
+2025-07-01 23:50:01,802 Api Call 
+ Anime list:
+2025-07-01 23:50:01,802 Tenki no Ko
+2025-07-01 23:50:01,802 Shingeki no Kyojin: Chronicle
+2025-07-01 23:50:01,802 One Piece: Episode of Sorajima
+2025-07-01 23:50:01,802 Seitokai Yakuindomo Movie 2
+2025-07-01 23:50:01,802 Ensemble Stars!! Road to Show!!
+2025-07-01 23:50:01,803 Given: Uragawa no Sonzai
+2025-07-01 23:50:01,803 Omoi, Omoware, Furi, Furare
+2025-07-01 23:50:01,803 Ni Tian Zhizun
+2025-07-01 23:50:01,803 One Punch Man 2nd Season Commemorative Special
+2025-07-01 23:50:01,803 Wonder Egg Priority: Watashi no Priority
+2025-07-01 23:50:01,803 Youjo Senki: Sabaku no Pasta Daisakusen
+2025-07-01 23:50:01,803 Blue Thermal
+2025-07-01 23:50:01,803 Yoru ni Kakeru
+2025-07-01 23:50:01,803 Psycho-Pass 3: First Inspector
+2025-07-01 23:50:01,803 Kimetsu no Yaiba Movie: Mugen Ressha-hen
+2025-07-01 23:50:01,803 Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram
+2025-07-01 23:50:01,803 Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA
+2025-07-01 23:50:01,803 Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella
+2025-07-01 23:50:01,803 Yuru Camp△ Movie
+2025-07-01 23:50:01,803 Isekai Quartet Movie: Another World
+2025-07-01 23:50:01,803 Rhythmens Episode 0
+2025-07-01 23:50:01,803 Metamon to! Wooper to Katazuke
+2025-07-01 23:50:01,803 Idol Bu Show Movie
+2025-07-01 23:50:01,804 Inamori Asuto no Soccer Kyoushitsu
+2025-07-01 23:50:01,804 Kagami no Kojou
+2025-07-01 23:50:01,804 VALID ANIMES:
+2025-07-01 23:50:01,804 Tenki no Ko
+2025-07-01 23:50:01,804 Shingeki no Kyojin: Chronicle
+2025-07-01 23:50:01,804 One Piece: Episode of Sorajima
+2025-07-01 23:50:01,804 Seitokai Yakuindomo Movie 2
+2025-07-01 23:50:01,804 Ensemble Stars!! Road to Show!!
+2025-07-01 23:50:01,804 Given: Uragawa no Sonzai
+2025-07-01 23:50:01,805 Omoi, Omoware, Furi, Furare
+2025-07-01 23:50:01,805 One Punch Man 2nd Season Commemorative Special
+2025-07-01 23:50:01,805 Wonder Egg Priority: Watashi no Priority
+2025-07-01 23:50:01,805 Youjo Senki: Sabaku no Pasta Daisakusen
+2025-07-01 23:50:01,805 Blue Thermal
+2025-07-01 23:50:01,805 Yoru ni Kakeru
+2025-07-01 23:50:01,805 Psycho-Pass 3: First Inspector
+2025-07-01 23:50:01,805 Kimetsu no Yaiba Movie: Mugen Ressha-hen
+2025-07-01 23:50:01,805 Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram
+2025-07-01 23:50:01,805 Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA
+2025-07-01 23:50:01,805 Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella
+2025-07-01 23:50:01,805 Yuru Camp△ Movie
+2025-07-01 23:50:01,805 Isekai Quartet Movie: Another World
+2025-07-01 23:50:01,805 Kagami no Kojou
+2025-07-01 23:50:01,807 127.0.0.1 - - [01/Jul/2025 23:50:01] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:50:01,820 127.0.0.1 - - [01/Jul/2025 23:50:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:50:36,081 Starting new HTTPS connection (1): api.jikan.moe:443
+2025-07-01 23:50:36,570 https://api.jikan.moe:443 "GET /v4/anime?start_date=2017-08-15&order_by=mal_id&sort=desc HTTP/1.1" 200 None
+2025-07-01 23:50:36,573 Api Call 
+ Anime list:
+2025-07-01 23:50:36,574 Eleceed
+2025-07-01 23:50:36,574 Eleceed
+2025-07-01 23:50:36,574 Vigilante: Boku no Hero Academia Illegals 2nd Season
+2025-07-01 23:50:36,574 Kiken na Mori Onigokko
+2025-07-01 23:50:36,574 Kore tte Naani?
+2025-07-01 23:50:36,574 Pure Pure Pero Pero Princess
+2025-07-01 23:50:36,574 Uma Musume: Cinderella Gray Part 2
+2025-07-01 23:50:36,574 Ling Tian Du Zun
+2025-07-01 23:50:36,574 Summer Pockets Movie
+2025-07-01 23:50:36,574 Summer Pockets Movie
+2025-07-01 23:50:36,574 Muzik Tiger In the Forest 2nd Season
+2025-07-01 23:50:36,574 Shibuya♡Hachi Part 4
+2025-07-01 23:50:36,574 KFC x Yuanshen Liandong PV: Daihao K - Duo Bao Qibing
+2025-07-01 23:50:36,574 Towa no Yuugure
+2025-07-01 23:50:36,575 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:50:36,575 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:50:36,575 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:50:36,575 Neko Konogoro: Tenka Toitsu-hen
+2025-07-01 23:50:36,575 Kyou wa Yubiwa wo Hazusu kara......
+2025-07-01 23:50:36,575 Kyou wa Yubiwa wo Hazusu kara......
+2025-07-01 23:50:36,575 Mujin Eki The Animation
+2025-07-01 23:50:36,575 Mujin Eki The Animation
+2025-07-01 23:50:36,575 Koushoku no Chuugi Kunoichi Botan
+2025-07-01 23:50:36,575 Forever feat. KNVWN
+2025-07-01 23:50:36,575 Usuiro Display
+2025-07-01 23:50:36,576 VALID ANIMES:
+2025-07-01 23:50:36,576 Vigilante: Boku no Hero Academia Illegals 2nd Season
+2025-07-01 23:50:36,577 127.0.0.1 - - [01/Jul/2025 23:50:36] "GET /randomanime HTTP/1.1" 200 -
+2025-07-01 23:50:36,590 127.0.0.1 - - [01/Jul/2025 23:50:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:50:37,478 127.0.0.1 - - [01/Jul/2025 23:50:37] "GET / HTTP/1.1" 200 -
+2025-07-01 23:50:37,486 127.0.0.1 - - [01/Jul/2025 23:50:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:50:39,447 127.0.0.1 - - [01/Jul/2025 23:50:39] "GET / HTTP/1.1" 200 -
+2025-07-01 23:50:39,455 127.0.0.1 - - [01/Jul/2025 23:50:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-01 23:50:42,397 127.0.0.1 - - [01/Jul/2025 23:50:42] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2025-07-01 23:50:42,398 127.0.0.1 - - [01/Jul/2025 23:50:42] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-07-01 23:50:42,399 127.0.0.1 - - [01/Jul/2025 23:50:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

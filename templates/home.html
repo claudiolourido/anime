@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Anime Game Menu</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body
+    style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column; text-align: center;">
+    <h1>Welcome to the Anime Guessing Game!</h1>
+    <form action="/randomanime">
+        <button type="submit">🎴 Guess by Image</button>
+    </form>
+    <br>
+    <form action="/describeanime">
+        <button type="submit">📜 Guess by Description</button>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Guess by Image</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body
+    style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column; text-align: center;">
+    <h2>Guess the Anime Title from the Image</h2>
+    <img src="{{ image_url }}" alt="Anime Image" width="200"><br><br>
+    <form method="post">
+        <input type="hidden" name="correct_title" value="{{ title }}">
+        <input type="hidden" name="image_url" value="{{ image_url }}">
+        <input name="guess" placeholder="Your guess here">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>
